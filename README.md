@@ -21,7 +21,7 @@ Un sistema de gestión interactivo por línea de comandos (CLI) construido con N
 
 ## Estructura del Proyecto
 
-El código fuente sigue un patrón de separación de responsabilidades:
+El código del proyecto sigue la siguiente estructura:
 
 ```text
 📁 src/
