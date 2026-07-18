@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "idUsuario": 2,
+    "idProducto": 1,
+    "cantidad": 1,
+    "total": 1250.50,
+    "estado": "PAGADO"
+  },
+  {
+    "id": 2,
+    "idUsuario": 3,
+    "idProducto": 2,
+    "cantidad": 2,
+    "total": 51.98,
+    "estado": "PENDIENTE"
+  },
+  {
+    "id": 3,
+    "idUsuario": 2,
+    "idProducto": 3,
+    "cantidad": 1,
+    "total": 85.00,
+    "estado": "CANCELADO"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Dell XPS 15",
+    "precio": 1250.50,
+    "stock": 10,
+    "estado": "DISPONIBLE"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Inalambrico Logitech",
+    "precio": 25.99,
+    "stock": 45,
+    "estado": "DISPONIBLE"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecanico Razer",
+    "precio": 85.00,
+    "stock": 0,
+    "estado": "AGOTADO"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor Samsung 24 Pulgadas",
+    "precio": 150.00,
+    "stock": 5,
+    "estado": "DESCONTINUADO"
+  }
+]

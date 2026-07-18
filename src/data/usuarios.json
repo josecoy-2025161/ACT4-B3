@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos",
+        "apellido": "Mendez",
+        "edad": 30,
+        "correo": "admin.carlos@gmail.com",
+        "contrasena": "Admin123",
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 2,
+        "nombre": "Lucia",
+        "apellido": "Fernandez",
+        "edad": 25,
+        "correo": "lucia.fer@hotmail.com",
+        "contrasena": "Usuario456",
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 3,
+        "nombre": "Roberto",
+        "apellido": "Gomez",
+        "edad": 42,
+        "correo": "roberto.g@outlook.com",
+        "contrasena": "Pass789",
+        "rol": "USUARIO",
+        "estado": "SUSPENDIDO"
+    },
+    {
+        "id": 4,
+        "nombre": "Jose",
+        "apellido": "Coy",
+        "edad": 17,
+        "correo": "j@outlook.com",
+        "contrasena": "123",
+        "rol": "ADMIN",
+        "estado": "INACTIVO"
+    }
+]
